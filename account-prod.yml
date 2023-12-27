@@ -2,7 +2,7 @@
 build:  
   version: 1.0
 accounts:
-  message: "Welcome to MyBank account related Productions APIs"
+  message: "Welcome to MyBank account related Prod APIs"
   contactDetails:
     name: "Smitha Ray-QA Lead"
     email: "{cipher}2fcc6e190a1de5a7496d209e510451adf2420da1f3847c12266fd6269f0a09a719859c359f73f8a2d43df06c80e31a2c"
