@@ -1,0 +1,10 @@
+
+build:  
+  version: 1.0
+accounts:
+  message: "Welcome to MyBank account related Prod APIs"
+  contactDetails:
+    name: "Smitha Ray-QA Lead"
+    email: "Smitha@gmail.com"
+  oncallSupport: 
+    phoneNumber: "7330635789"

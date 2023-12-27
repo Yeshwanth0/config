@@ -1,0 +1,11 @@
+
+accounts:
+  message: "Welcome to MyBank account-related local APIs"
+  contactDetails:
+    name: "Yeshwanth"
+    email: "kannegundlayeshwanth@gmail.com"
+  oncallSupport:
+    phoneNumber: "7330635789"
+    
+build:  
+  version: 5.0    
