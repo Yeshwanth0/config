@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to MyBank account related Prod APIs"
   contactDetails:
     name: "Smitha Ray-QA Lead"
-    email: "Smitha@gmail.com"
+    email: "(cipher)cdd7a02473e739222e026288e95edef192d6e98c4b907f840b4d777cb93dd23f06ed0aa1372b9a02d9f0e8226be573ba"
   oncallSupport: 
     phoneNumber: "7330635789"
